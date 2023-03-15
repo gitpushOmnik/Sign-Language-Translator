@@ -28,7 +28,7 @@ After the real-time video has successfully started, the model then takes into ac
 
 <img src="https://github.com/gitpushOmnik/Sign-Language-Translator/blob/main/README%20Images/IMG_2679.jpg" width="275" height="600">
 
-<img src="https://github.com/gitpushOmnik/Sign-Language-Translator/blob/main/README%20Images/IMG_2681.jpg width="275" height="600">
+<img src="https://github.com/gitpushOmnik/Sign-Language-Translator/blob/main/README%20Images/IMG_2681.jpg" width="275" height="600">
 
 
 ### Libraries Used
